@@ -1,12 +1,17 @@
 ## Who I am
-I'm Saswata Pal (Johny), a software engineer with over 14 years of experience. I specialize in frontend architecture (how user interfaces are built) and automating complex workflows with AI, approaching every challenge with a problem-solver's mindset. My unique focus lies in creating developer tools that make AI useful, efficient, and cost-effective for engineering teams.
+
+I'm a software engineer with 14 years of experience, strong in React and TypeScript on the frontend, and increasingly deep in AI pipeline architecture on the backend. What's unusual about that combination: I can design a system where multiple AI models work together to do real work — and then build the interface that makes it usable. Most people do one or the other. I do both.
 
 ## What I'm building
-*   **Automated YouTube Studio** – A system that automatically produces and manages video content across four YouTube channels. It uses multiple AI models to handle everything from script generation to video editing and publishing, solving the problem of high-volume content creation without manual effort.
-*   **AI Orchestration Platform (Personal-OS)** – A personal platform designed to manage and connect different AI services (like various large language models). This project aims to abstract away the complexity of using multiple AI providers, making it easier to build applications that can dynamically choose the most effective and cost-efficient AI tool for a given task.
+
+**[video-studio](https://github.com/saswatapal/video-studio)** — A fully automated pipeline that runs 4 YouTube channels with minimal manual input. Scripts, voiceovers, visuals, and publishing are all handled by chained AI models. The interesting problem: getting different AI services to hand off work to each other reliably, cheaply, and in the right order.
+
+**[personal-os](https://github.com/saswatapal/personal-os)** — A personal AI platform where one layer of personal context feeds multiple applications — a personal assistant, a learning guide, and more. The interesting problem: designing it so you can swap between Claude, GPT-4, or a local model by changing one line, without touching anything else. No lock-in.
 
 ## What I'm learning
-I'm currently deepening my understanding of AI system design (how to build complex AI software) and LLM cost optimization (how to make large language models affordable to run). This involves improving my Python skills and exploring the foundational 'why' behind the AI systems I build, not just 'how' they work.
+
+Right now I'm going deep on how AI models actually work — not just calling APIs, but understanding token economics, context windows, and when a cheaper model does the job as well as an expensive one. The reason: most engineering teams are spending heavily on AI tools without knowing if they're getting value. I want to be the person who can answer that question.
 
 ## What I'm looking for
-I'm looking for Staff or Principal Engineer roles, or an AI Architect position, where I can build end-to-end AI workflow automation for development teams. My ideal role involves designing robust AI pipelines, focusing on cost governance, and creating tooling that improves developer productivity by making AI integration seamless and intelligent. I want to be in an environment where I can own AI architecture decisions, not just implement them, contributing to a team that values practical, impactful AI solutions.
+
+I want to work on a team that's figuring out how to use AI well, not just widely. Specifically: AI platform work, developer tooling, or cost governance for AI systems — roles where the job is to make AI actually work in production, not just demo well. Remote or hybrid. I'm not looking for a team that's just starting to think about AI — I'm looking for one where this problem is already real and someone needs to own the architecture.
