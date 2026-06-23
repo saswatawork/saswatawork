@@ -4,9 +4,9 @@ I'm a software engineer with 14 years of experience, strong in React and TypeScr
 
 ## What I'm building
 
-**[video-studio](https://github.com/saswatapal/video-studio)** — A fully automated pipeline that runs 4 YouTube channels with minimal manual input. Scripts, voiceovers, visuals, and publishing are all handled by chained AI models. The interesting problem: getting different AI services to hand off work to each other reliably, cheaply, and in the right order.
+**[video-studio](https://github.com/saswatawork/video-studio)** — A fully automated pipeline that runs 4 YouTube channels with minimal manual input. Scripts, voiceovers, visuals, and publishing are all handled by chained AI models. The interesting problem: getting different AI services to hand off work to each other reliably, cheaply, and in the right order.
 
-**[personal-os](https://github.com/saswatapal/personal-os)** — A personal AI platform where one layer of personal context feeds multiple applications — a personal assistant, a learning guide, and more. The interesting problem: designing it so you can swap between Claude, GPT-4, or a local model by changing one line, without touching anything else. No lock-in.
+**[personal-os](https://github.com/saswatawork/personal-os)** — A personal AI platform where one layer of personal context feeds multiple applications — a personal assistant, a learning guide, and more. The interesting problem: designing it so you can swap between Claude, GPT-4, or a local model by changing one line, without touching anything else. No lock-in.
 
 ## What I'm learning
 
