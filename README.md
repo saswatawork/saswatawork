@@ -8,6 +8,8 @@ I'm a software engineer with 14 years of experience, strong in React and TypeScr
 
 **[personal-os](https://github.com/saswatawork/personal-os)** — A personal AI platform where one layer of personal context feeds multiple applications — a personal assistant, a learning guide, and more. The interesting problem: designing it so you can swap between Claude, GPT-4, or a local model by changing one line, without touching anything else. No lock-in.
 
+**[codecraft-labs](https://github.com/saswatawork/codecraft-labs)** — My portfolio site and a small design system (Next.js, React 19), the "build the interface" half of the combination above — tested components, documented in Storybook, live in production.
+
 ## What I'm learning
 
 Right now I'm going deep on how AI models actually work — not just calling APIs, but understanding token economics, context windows, and when a cheaper model does the job as well as an expensive one. The reason: most engineering teams are spending heavily on AI tools without knowing if they're getting value. I want to be the person who can answer that question.
